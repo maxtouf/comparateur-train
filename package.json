@@ -1,5 +1,6 @@
 {
   "name": "comparateur-train",
+  "homepage": "https://maxtouf.github.io/comparateur-train",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
